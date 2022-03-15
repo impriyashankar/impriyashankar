@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I recently attended a web-development bootcamp at Le Wagon, Amsterdam.<br>
+🌱 I've been working on projects in Ruby on Rails.<br>
+⚡  I'm currently learning React<br>
+📫 How to reach me: preiyah@gmail.com<br>
+✍️  I blog on Medium sometimes<br>
+
+Currently, I'm looking for job openings in web dev.
+
 <!--
 **impriyashankar/impriyashankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
