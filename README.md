@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 🔭 I recently attended a web-development bootcamp at Le Wagon, Amsterdam.<br>
-🌱 I've been working on projects in Ruby on Rails.<br>
+🌱 I've been working on projects in Ruby on Rails. <a href="http://www.ecolympians.fun/">Ecolympians</a> and <a href="https://toys4rent.herokuapp.com/">Toys4rent </a>took shape as part of the bootcamp course.<br>
 ⚡  I'm currently learning React<br>
 📫 How to reach me: preiyah@gmail.com<br>
-✍️  I blog on Medium sometimes<br>
+✍️  I blog on <a href="https://medium.com/@preiyah">Medium</a> sometimes<br>
 
 Currently, I'm looking for job openings in web dev.
 
