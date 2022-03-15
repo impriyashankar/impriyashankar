@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+
+
+
+<h1 align="center">Hi 👋, I'm Priya Shankar</h1>
+<h3 align="center">A passionate web developer from India</h3>
 
 🔭 I recently attended a web-development bootcamp at Le Wagon, Amsterdam.<br>
 🌱 I've been working on projects in Ruby on Rails. <a href="http://www.ecolympians.fun/">Ecolympians</a> and <a href="https://toys4rent.herokuapp.com/">Toys4rent </a>took shape as part of the bootcamp course.<br>
@@ -7,9 +12,6 @@
 ✍️  I blog on <a href="https://medium.com/@preiyah">Medium</a> sometimes<br>
 
 Currently, I'm looking for job openings in web dev.
-
-<h1 align="center">Hi 👋, I'm Priya Shankar</h1>
-<h3 align="center">A passionate web developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
