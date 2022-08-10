@@ -6,7 +6,7 @@
 <h3 align="center">An enthusiastic web developer based in The Netherlands</h3>
 
 🔭 I recently attended a web-development bootcamp at Le Wagon, Amsterdam.<br>
-🌱 I've been working on projects in Ruby on Rails and various front-end apps. <a href="http://www.ecolympians.fun/">Ecolympians</a> and <a href="https://toys4rent.herokuapp.com/">Toys4rent </a>took shape as part of the bootcamp course.Created other apps/programs to fortify knowldedge in new concepts learnt - as an ongoing process. <br> 
+🌱 I've been working on projects in Ruby on Rails and various front-end apps. <a href="http://www.ecolympians.fun/">Ecolympians</a> and <a href="https://toys4rent.herokuapp.com/">Toys4rent </a>took shape as part of the bootcamp course. Created other apps/programs to fortify knowldedge in new concepts learnt - as an ongoing process. <br> 
 ⚡  I'm currently learning React<br>
 📫 How to reach me: preiyah@gmail.com<br>
 ✍️  I blog on <a href="https://medium.com/@preiyah">Medium</a> sometimes<br>
