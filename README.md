@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Priya Shankar</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">An enthusiastic web developer based in The Netherlands</h3>
 
 🔭 I recently attended a web-development bootcamp at Le Wagon, Amsterdam.<br>
 🌱 I've been working on projects in Ruby on Rails. <a href="http://www.ecolympians.fun/">Ecolympians</a> and <a href="https://toys4rent.herokuapp.com/">Toys4rent </a>took shape as part of the bootcamp course.<br>
