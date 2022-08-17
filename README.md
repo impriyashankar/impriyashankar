@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Priya Shankar</h1>
 <h3 align="center">An enthusiastic web developer based in The Netherlands</h3>
 
+⚡  I have professional experience as a web developer in the marketing industry. <br>
 🔭 I recently attended a web-development bootcamp at Le Wagon, Amsterdam.<br>
 🌱 I've been working on projects in Ruby on Rails and various front-end apps. <a href="http://www.ecolympians.fun/">Ecolympians</a> and <a href="https://toys4rent.herokuapp.com/">Toys4rent </a>took shape as part of the bootcamp course. Created other apps/programs to fortify knowledge in new concepts learnt - as an ongoing process. <br> 
 ⚡  I'm currently learning React, node.js and Mocha<br>
