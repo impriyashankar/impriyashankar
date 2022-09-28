@@ -3,16 +3,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Priya Shankar</h1>
-<h3 align="center">An enthusiastic web developer based in The Netherlands</h3>
+<h3 align="center">An enthusiastic software developer based in The Netherlands</h3>
 
-⚡  I have professional experience as a web developer in the marketing industry. <br>
-🔭 I recently attended a web-development bootcamp at Le Wagon, Amsterdam.<br>
+⚡  I have professional experience as a software and web developer in the IT services and marketing industries respectively. <br>
+🔭 I recently attended a full-stack app development bootcamp at Le Wagon, Amsterdam.<br>
 🌱 I've been working on projects in Ruby on Rails and various front-end apps. <a href="http://www.ecolympians.fun/">Ecolympians</a> and <a href="https://toys4rent.herokuapp.com/">Toys4rent </a>took shape as part of the bootcamp course. Created other apps/programs to fortify knowledge in new concepts learnt - as an ongoing process. <br> 
-⚡  I'm currently learning React, node.js and Mocha<br>
 📫 How to reach me: preiyah@gmail.com<br>
 ✍️  I blog on <a href="https://medium.com/@preiyah">Medium</a> sometimes<br>
 
-Currently, I'm looking for job openings in web dev.
+Currently, I'm looking for job openings in software dev.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
